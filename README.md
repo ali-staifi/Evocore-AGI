@@ -33,6 +33,14 @@ Alors que Google annonce l'avenir des agents, **EvoCore construit ce qui vient a
 
 ---
 
+## 🎥 Vidéo de Présentation
+
+[![Les Deux Voies vers l'AGI](https://img.youtube.com/vi/_DT54haByeY/maxresdefault.jpg)](https://www.youtube.com/watch?v=_DT54haByeY)
+
+**[▶️ Regarder : Les Deux Voies vers l'AGI](https://www.youtube.com/watch?v=_DT54haByeY)**
+
+---
+
 ## 🚀 Quick Start
 
 ```bash
