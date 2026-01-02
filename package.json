@@ -1,0 +1,36 @@
+{
+  "name": "evocore-agi",
+  "version": "1.0.0",
+  "description": "Open source alternative to Google Agent Mode - Cybernetic multi-agent system",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "example:echo": "node examples/echo-agent-demo.js",
+    "test": "echo \"Tests coming soon\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ali-staifi/Evocore-AGI.git"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "multi-agent",
+    "cybernetics",
+    "open-source",
+    "agi",
+    "automation",
+    "intelligent-systems"
+  ],
+  "author": "Ali Staifi <ali-staifi@hotmail.fr>",
+  "license": "BUSL-1.1",
+  "bugs": {
+    "url": "https://github.com/ali-staifi/Evocore-AGI/issues"
+  },
+  "homepage": "https://github.com/ali-staifi/Evocore-AGI#readme",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
